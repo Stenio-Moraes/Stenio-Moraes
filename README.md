@@ -3,6 +3,8 @@
  ## 📊 Estatísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stenio-Moraes&show_icons=true&theme=tokyonight)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stenio-Moraes&show_icons=true)
+
 ## 🔥 Sequência de contribuições
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Stenio-Moraes&theme=tokyonight)
 
