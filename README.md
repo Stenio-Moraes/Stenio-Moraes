@@ -26,5 +26,5 @@
 </div>
 
 <div>
-![snake gif](https://raw.githubusercontent.com/Stenio-Moraes/Stenio-Moraes/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/Stenio-Moraes/Stenio-Moraes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
