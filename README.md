@@ -1,15 +1,11 @@
 ## Olá meu nome é Stênio Moraes!
- 
- ## 📊 Estatísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stenio-Moraes&show_icons=true&theme=tokyonight)
-
 ## 🔥 Sequência de contribuições
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Stenio-Moraes&theme=tokyonight)
 
 ## 💻 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stenio-Moraes&layout=compact&theme=tokyonight)
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Stenio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Stenio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Stenio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
