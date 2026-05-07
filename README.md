@@ -4,11 +4,23 @@
 
 ## 💻 Linguagens mais usadas
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img alt="Stenio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Stenio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Stenio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Stenio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div style="display: flex; gap: 12px; align-items: center;">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" 
+    alt="JavaScript" 
+    width="40">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
+    alt="HTML5" 
+    width="40">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
+    alt="CSS3" 
+    width="40">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+    alt="Python" 
+    width="40">
 </div>
 
  ## 
