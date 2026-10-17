@@ -46,22 +46,24 @@ Me chamo Stênio Moraes, tenho 16 anos. Estou atualmente no ensino médio técni
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Stenio-Moraes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## 📊 Estatísticas
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stenio-Moraes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        alt="Estatísticas do GitHub"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=Stenio-Moraes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+      />
+    </td>
+    <td>
+      <img
+        alt="Tecnologias"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stenio-Moraes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+      />
+    </td>
+  </tr>
+</table>
