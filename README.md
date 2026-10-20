@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Stênio Moraes
+# 🧑🏻‍💻 Stênio Moraes
 
 **`oque quero ser?`**
 
@@ -28,6 +28,14 @@ Me chamo Stênio Moraes, tenho 16 anos. Estou atualmente no ensino médio técni
 
 <img 
     align="left" 
+    lt="VS Code" 
+    title="VS Code" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -42,6 +50,39 @@ Me chamo Stênio Moraes, tenho 16 anos. Estou atualmente no ensino médio técni
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Trello" 
+    title="Trello"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Canva" 
+    title="Canva"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Miro" 
+    title="Miro"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/miro.svg" 
+/>
+
 
 <br/>
 <br/>
