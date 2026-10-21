@@ -52,11 +52,11 @@ Me chamo Stênio Moraes, tenho 16 anos. Estou atualmente no ensino médio técni
 />
 <img 
     align="left" 
-    alt="Figma" 
-    title="Figma"
+    alt="Canva" 
+    title="Canva"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
 />
 <img 
     align="left" 
@@ -68,11 +68,11 @@ Me chamo Stênio Moraes, tenho 16 anos. Estou atualmente no ensino médio técni
 />
 <img 
     align="left" 
-    alt="Canva" 
-    title="Canva"
+    alt="Figma" 
+    title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 <img 
     align="left" 
